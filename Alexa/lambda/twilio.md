@@ -1,6 +1,6 @@
 ## STEP: 01 (ADD TWILIO SID & TOKEN)
-`TWILIO_ACC_SID=AC3700f51b83690af5fa99ef4fa64d4bc7`
-`TWILIO_AUTH_TOKEN=c1ab4e6a9a862c1ccd83b7d82d961498`
+`TWILIO_ACC_SID=`
+`TWILIO_AUTH_TOKEN=`
 
 ## STEP: 02 (Dependencies)
 1. Add dependencies to `package.json`
