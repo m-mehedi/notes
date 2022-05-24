@@ -2,10 +2,9 @@
 
 ## Step:01
 1. Add dependencies to `package.json`
-    ```
-    "i18next": "^20.2.4",
-    "i18next-sprintf-postprocessor": "^0.2.2",
-        ```
+    `"i18next": "^20.2.4",`
+    `"i18next-sprintf-postprocessor": "^0.2.2",`
+    
 2. Require packages
 `const i18n = require('i18next');`
 `const sprintf = require('i18next-sprintf-postprocessor');`

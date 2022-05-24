@@ -1,0 +1,2 @@
+`.withSimpleCard(`DSR Server Status`, `${q.dsrdoctors} ${q.dsrbrands}`)`
+`.withStandardCard(`Successfully Uploaded`, 'Your data has been uploaded to remote server successfully!', 'https://icons.iconarchive.com/icons/gakuseisean/ivista-2/128/Misc-Upload-Database-icon.png', 'https://icons.iconarchive.com/icons/gakuseisean/ivista-2/256/Misc-Upload-Database-icon.png')`
